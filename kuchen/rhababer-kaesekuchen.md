@@ -1,5 +1,7 @@
 # Rhababer-Käsekuchen
 
+![Rhababer Käsekuchen](media/rhababer-kaesekuchen.jpg)
+
 ### Zutaten
 
 Boden:

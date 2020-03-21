@@ -1,5 +1,6 @@
-
 # Spätzle
+
+![Spätzle](media/spaetzle.jpg)
 
 ### Zutaten
 

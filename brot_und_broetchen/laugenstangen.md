@@ -1,5 +1,7 @@
 # Laugenstangen
 
+![Laugenstangen](media/laugenstangen.jpg)
+
 ### Zutaten
 
 Teig

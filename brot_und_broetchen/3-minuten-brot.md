@@ -1,6 +1,8 @@
 
 # 3 Minuten Brot
 
+![§ Minuten Brot](media/3-minuten-brot.jpg)
+
 ### Zutaten
 
 - [ ]  7 g Hefe (Trockenhefe)

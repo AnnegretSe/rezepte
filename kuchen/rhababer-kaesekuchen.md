@@ -1,6 +1,6 @@
 # Rhababer-Käsekuchen
 
-![Rhababer Käsekuchen](media/rhababer-kaesekuchen.jpg)
+![Rhababer Käsekuchen](media/rhababer_kaesekuchen.jpg)
 
 ### Zutaten
 

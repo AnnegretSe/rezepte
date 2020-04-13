@@ -1,6 +1,6 @@
-![Hefezopf](media/hefezopf.jpg)
-
 # Hefezopf
+
+![Hefezopf](media/hefezopf.jpg)
 
 ### Zutaten
 

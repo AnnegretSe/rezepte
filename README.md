@@ -3,6 +3,8 @@
 # Kuchen
 - [Rhababer Käsekuchen](kuchen/rhababer-kaesekuchen.md)
 - [Schokokuchen](kuchen/schokokuchen.md)
+- [Biskuitboden](kuchen/biskuitboden.md)
+- [Hefezopf](kuchen/hefezopf.md)
 
 # Beilagen
 - [Spätzle](beilagen/spaetzle.md)

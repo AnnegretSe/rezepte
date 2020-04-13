@@ -5,7 +5,7 @@
 - [Schokokuchen](kuchen/schokokuchen.md)
 
 # Beilagen
-- [Spätzle](beilagen/spatzle.md)
+- [Spätzle](beilagen/spaetzle.md)
 
 # Hauptgerichte
 - [Gefüllte Pfannkuchen](hauptgerichte/gefuellte_pfannkuchen.md)

@@ -1,3 +1,5 @@
+![Biskuit](media/biskuit.jpg)
+
 # Biskuitboden
 
 ### Zutaten

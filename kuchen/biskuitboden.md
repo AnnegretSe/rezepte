@@ -15,6 +15,6 @@
 Die Eier mit dem Vanillezucker und den Zucker 30 Minuten (!!!!) lang rühren. Am besten in einer Küchenmaschine.
 Mehl sieben, mit Backpulver vermischen und unterheben.
 
-Eine Springform einfetten, den Boden mit Backpapier auslegen und den Teig einfüllen. Im vorgeheizten Backofen bei 175°C 50 Minuten backen.
+Den Boden mit Backpapier auslegen und den Teig einfüllen (Form nicht fetten). Im vorgeheizten Backofen bei 175°C 50 Minuten backen.
 
 Das Geheimnis ist das 30 Minuten lange Rühren von Ei und Zucker. Da wird in den Teig genug Luft unterschlagen, so wird der Boden richtig schön locker.

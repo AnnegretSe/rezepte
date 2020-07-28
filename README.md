@@ -1,6 +1,7 @@
 # Rezept Übersicht
 
 # Kuchen
+- [Bueno Torte](kuchen/bueno_torte.md)
 - [Rhababer Käsekuchen](kuchen/rhababer-kaesekuchen.md)
 - [Schokokuchen](kuchen/schokokuchen.md)
 - [Biskuitboden](kuchen/biskuitboden.md)

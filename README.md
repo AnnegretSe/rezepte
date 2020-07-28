@@ -13,6 +13,7 @@
 # Hauptgerichte
 - [Gefüllte Pfannkuchen](hauptgerichte/gefuellte_pfannkuchen.md)
 - [Spargel Hack Pfanne](hauptgerichte/spargel_hack_pfanne.md)
+- [Aubergines Shakshuka](hauptgerichte/auberginen_shakshuka.md)
 
 # Brot und Brötchen
 - [3 Minuten Brot](brot_und_broetchen/3-minuten-brot.md)

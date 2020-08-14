@@ -1,6 +1,6 @@
 # Mein Shakshuka
 
-![Auberginen Shakshuka](media/mein_shakshuka.jpg)
+![mein Shakshuka](media/mein_shakshuka.jpg)
 
 ### Zutaten
 (ca. 4 Personen)

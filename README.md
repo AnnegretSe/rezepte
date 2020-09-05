@@ -12,6 +12,9 @@
 # Beilagen
 - [Spätzle](beilagen/spaetzle.md)
 
+# Suppe
+- [Tomaten Kürbis Suppe](suppe/tomaten_kuerbis_suppe.md)
+
 # Hauptgerichte
 - [Gefüllte Pfannkuchen](hauptgerichte/gefuellte_pfannkuchen.md)
 - [Spargel Hack Pfanne](hauptgerichte/spargel_hack_pfanne.md)

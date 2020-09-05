@@ -7,6 +7,7 @@
 - [Biskuitboden](kuchen/biskuitboden.md)
 - [Hefezopf](kuchen/hefezopf.md)
 - [Apfelkuchen vom Blech](kuchen/apfelblechkuchen.md)
+- [Creme Törtchen ohne Backen](kuchen/schnelle_toertchen.md)
 
 # Beilagen
 - [Spätzle](beilagen/spaetzle.md)

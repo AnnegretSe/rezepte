@@ -6,6 +6,7 @@
 - [Schokokuchen](kuchen/schokokuchen.md)
 - [Biskuitboden](kuchen/biskuitboden.md)
 - [Hefezopf](kuchen/hefezopf.md)
+- [Apfelkuchen vom Blech](kuchen/apfelblechkuchen.md)
 
 # Beilagen
 - [Spätzle](beilagen/spaetzle.md)

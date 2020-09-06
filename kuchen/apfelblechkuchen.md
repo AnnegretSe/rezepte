@@ -10,6 +10,7 @@
  - [ ] 300g Mehl
  - [ ] 4 Eier
  - [ ] 3 TL Backpulver
+ - [ ] 5 Äpfel
  - [ ] Zimt / Zucker
  - [ ] ggf Mandeln
  

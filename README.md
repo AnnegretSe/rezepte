@@ -7,10 +7,12 @@
 - [Biskuitboden](kuchen/biskuitboden.md)
 - [Hefezopf](kuchen/hefezopf.md)
 - [Apfelkuchen vom Blech](kuchen/apfelblechkuchen.md)
+- [Zwetschgenkuchen vom Blech](kuchen/zwetschgenblechkuchen.md)
 - [Creme Törtchen ohne Backen](kuchen/schnelle_toertchen.md)
 
 # Beilagen
 - [Spätzle](beilagen/spaetzle.md)
+- [Kunterbunter Salat](beilagen/kunterbunter_salat.md)
 
 # Suppe
 - [Tomaten Kürbis Suppe](suppe/tomaten_kuerbis_suppe.md)
@@ -23,6 +25,7 @@
 - [Aubergine Shakshuka](hauptgerichte/auberginen_shakshuka.md)
 - [Mein Shakshuka](hauptgerichte/mein_shakshuka.md)
 - [Linsen Bolognese](hauptgerichte/linsen_bolognese.md)
+- [Auberginen Pasta](hauptgerichte/auberginen_pasta.md)
 
 # Brot und Brötchen
 - [3 Minuten Brot](brot_und_broetchen/3-minuten-brot.md)

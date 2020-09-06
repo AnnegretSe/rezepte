@@ -26,6 +26,7 @@
 - [Mein Shakshuka](hauptgerichte/mein_shakshuka.md)
 - [Linsen Bolognese](hauptgerichte/linsen_bolognese.md)
 - [Auberginen Pasta](hauptgerichte/auberginen_pasta.md)
+- [Ofen Falaffel](hauptgerichte/ofenfalaffel.md)
 
 # Brot und Brötchen
 - [3 Minuten Brot](brot_und_broetchen/3-minuten-brot.md)

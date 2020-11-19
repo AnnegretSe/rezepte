@@ -10,6 +10,11 @@
 - [Zwetschgenkuchen vom Blech](kuchen/zwetschgenblechkuchen.md)
 - [Creme Törtchen ohne Backen](kuchen/schnelle_toertchen.md)
 
+# Kekse
+- [Hildabretle / Terassen / Linzer](kekse/hildabretle.md)
+- [Schokobrot](kekse/schokobrot.md)
+- [Spritzgebäck](kekse/spritzgebaeck.md)
+
 # Beilagen
 - [Spätzle](beilagen/spaetzle.md)
 - [Kunterbunter Salat](beilagen/kunterbunter_salat.md)

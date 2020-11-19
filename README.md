@@ -14,6 +14,8 @@
 - [Hildabretle / Terassen / Linzer](kekse/hildabretle.md)
 - [Schokobrot](kekse/schokobrot.md)
 - [Spritzgebäck](kekse/spritzgebaeck.md)
+- [Eierlikörspritzgebäck](kekse/eierlikoersptizgebaeck.md)
+- [Nusshörnchen](kekse/nusshoernchen.md)
 
 # Beilagen
 - [Spätzle](beilagen/spaetzle.md)

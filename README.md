@@ -9,6 +9,7 @@
 - [Apfelkuchen vom Blech](kuchen/apfelblechkuchen.md)
 - [Zwetschgenkuchen vom Blech](kuchen/zwetschgenblechkuchen.md)
 - [Creme Törtchen ohne Backen](kuchen/schnelle_toertchen.md)
+- [Quarkstollen](kuchen/quarkstollen.md)
 
 # Kekse
 - [Hildabretle / Terassen / Linzer](kekse/hildabretle.md)

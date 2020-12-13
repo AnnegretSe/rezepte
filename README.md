@@ -38,6 +38,7 @@
 - [Süßkartoffel mit Ahornsirup](hauptgerichte/suesskartoffeln_mit_ahornsyrup.md)
 - [Gnochi mit Rotkraut](hauptgerichte/gnocchi_mit_rotkraut.md)
 - [Süßkartoffel Kokos Eintopf](hauptgerichte/suesskartoffel_kokos_eintopf.md)
+- [Gemüse Pilz Ragout](hauptgerichte/gemuese_pilz_ragout_mit_haube.md)
 
 # Brot und Brötchen
 - [3 Minuten Brot](brot_und_broetchen/3-minuten-brot.md)

@@ -12,3 +12,4 @@
 - [Süßkartoffel mit Ahornsirup](suesskartoffeln_mit_ahornsyrup.md)
 - [Gnochi mit Rotkraut](gnocchi_mit_rotkraut.md)
 - [Süßkartoffel Kokos Eintopf](suesskartoffel_kokos_eintopf.md)
+- [Gemüse Pilz Ragout](gemuese_pilz_ragout_mit_haube.md)

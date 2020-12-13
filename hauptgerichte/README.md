@@ -9,3 +9,5 @@
 - [Linsen Bolognese](linsen_bolognese.md)
 - [Auberginen Pasta](auberginen_pasta.md)
 - [Ofen Falaffel](ofenfalaffel.md)
+- [Süßkartoffel mit Ahornsirup](suesskartoffeln_mit_ahornsyrup.md)
+- [Gnochi mit Rotkraut](gnochi_mit_rotkraut.md)

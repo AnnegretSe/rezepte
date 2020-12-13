@@ -35,6 +35,8 @@
 - [Linsen Bolognese](hauptgerichte/linsen_bolognese.md)
 - [Auberginen Pasta](hauptgerichte/auberginen_pasta.md)
 - [Ofen Falaffel](hauptgerichte/ofenfalaffel.md)
+- [Süßkartoffel mit Ahornsirup](hauptgerichte/suesskartoffeln_mit_ahornsyrup.md)
+- [Gnochi mit Rotkraut](hauptgerichte/gnochi_mit_rotkraut.md)
 
 # Brot und Brötchen
 - [3 Minuten Brot](brot_und_broetchen/3-minuten-brot.md)

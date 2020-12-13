@@ -36,7 +36,8 @@
 - [Auberginen Pasta](hauptgerichte/auberginen_pasta.md)
 - [Ofen Falaffel](hauptgerichte/ofenfalaffel.md)
 - [Süßkartoffel mit Ahornsirup](hauptgerichte/suesskartoffeln_mit_ahornsyrup.md)
-- [Gnochi mit Rotkraut](hauptgerichte/gnochi_mit_rotkraut.md)
+- [Gnochi mit Rotkraut](hauptgerichte/gnocchi_mit_rotkraut.md)
+- [Süßkartoffel Kokos Eintopf](hauptgerichte/suesskartoffel_kokos_eintopf.md)
 
 # Brot und Brötchen
 - [3 Minuten Brot](brot_und_broetchen/3-minuten-brot.md)

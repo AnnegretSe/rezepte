@@ -4,6 +4,7 @@
 - [Bueno Torte](kuchen/bueno_torte.md)
 - [Rhababer Käsekuchen](kuchen/rhababer-kaesekuchen.md)
 - [Schokokuchen](kuchen/schokokuchen.md)
+- [Schokokuchen ohne Mehl](kuchen/schokokuchen_ohne_mehl.md)
 - [Biskuitboden](kuchen/biskuitboden.md)
 - [Hefezopf](kuchen/hefezopf.md)
 - [Apfelkuchen vom Blech](kuchen/apfelblechkuchen.md)

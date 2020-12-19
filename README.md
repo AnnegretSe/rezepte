@@ -21,6 +21,7 @@
 # Beilagen
 - [Spätzle](beilagen/spaetzle.md)
 - [Kunterbunter Salat](beilagen/kunterbunter_salat.md)
+- [Knödel](beilagen/knoedel.md)
 
 # Suppe
 - [Tomaten Kürbis Suppe](suppe/tomaten_kuerbis_suppe.md)

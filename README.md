@@ -55,4 +55,7 @@
 # Frühstück
 - [Bacon Egg Muffins](fruehstueck/bacon_egg_muffin.md)
 
+# Getränke
+- [Rum Butter Punsch](getraenke/rum_butter_punsch.md)
+
 

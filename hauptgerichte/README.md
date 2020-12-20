@@ -13,3 +13,4 @@
 - [Gnochi mit Rotkraut](gnocchi_mit_rotkraut.md)
 - [Süßkartoffel Kokos Eintopf](suesskartoffel_kokos_eintopf.md)
 - [Gemüse Pilz Ragout](gemuese_pilz_ragout_mit_haube.md)
+- [Ofengemüse](hauptgerichte/ofengemuese.md)

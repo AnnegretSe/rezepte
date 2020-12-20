@@ -4,6 +4,7 @@
 - [Bueno Torte](kuchen/bueno_torte.md)
 - [Rhababer Käsekuchen](kuchen/rhababer-kaesekuchen.md)
 - [Schokokuchen](kuchen/schokokuchen.md)
+- [Schokokuchen ohne Mehl](kuchen/schokokuchen_ohne_mehl.md)
 - [Biskuitboden](kuchen/biskuitboden.md)
 - [Hefezopf](kuchen/hefezopf.md)
 - [Apfelkuchen vom Blech](kuchen/apfelblechkuchen.md)
@@ -21,6 +22,8 @@
 # Beilagen
 - [Spätzle](beilagen/spaetzle.md)
 - [Kunterbunter Salat](beilagen/kunterbunter_salat.md)
+- [Knödel](beilagen/knoedel.md)
+- [Gebackener Sellerie](beilagen/gebackener_sellerie.md)
 
 # Suppe
 - [Tomaten Kürbis Suppe](suppe/tomaten_kuerbis_suppe.md)
@@ -39,6 +42,7 @@
 - [Gnochi mit Rotkraut](hauptgerichte/gnocchi_mit_rotkraut.md)
 - [Süßkartoffel Kokos Eintopf](hauptgerichte/suesskartoffel_kokos_eintopf.md)
 - [Gemüse Pilz Ragout](hauptgerichte/gemuese_pilz_ragout_mit_haube.md)
+- [Ofengemüse](hauptgerichte/ofengemuese.md)
 
 # Brot und Brötchen
 - [3 Minuten Brot](brot_und_broetchen/3-minuten-brot.md)

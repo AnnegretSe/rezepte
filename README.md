@@ -11,6 +11,7 @@
 - [Zwetschgenkuchen vom Blech](kuchen/zwetschgenblechkuchen.md)
 - [Creme Törtchen ohne Backen](kuchen/schnelle_toertchen.md)
 - [Quarkstollen](kuchen/quarkstollen.md)
+- [Lebkuchen Brioches](kuchen/lebkuchen_brioches.md)
 
 # Kekse
 - [Hildabretle / Terassen / Linzer](kekse/hildabretle.md)

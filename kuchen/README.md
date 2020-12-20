@@ -10,3 +10,4 @@
 - [Zwetschgenkuchen vom Blech](zwetschgenblechkuchen.md)
 - [Creme Törtchen ohne Backen](schnelle_toertchen.md)
 - [Quarkstollen](quarkstollen.md)
+- [Lebkuchen Brioches](lebkuchen_brioches.md)

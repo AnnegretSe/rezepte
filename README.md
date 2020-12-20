@@ -1,5 +1,8 @@
 # Rezept Übersicht
 
+# Sammlungen
+- [Rezepte für Weihnachten](sammlungen/weihnachten.md)
+
 # Kuchen
 - [Bueno Torte](kuchen/bueno_torte.md)
 - [Rhababer Käsekuchen](kuchen/rhababer-kaesekuchen.md)
@@ -51,3 +54,5 @@
 
 # Frühstück
 - [Bacon Egg Muffins](fruehstueck/bacon_egg_muffin.md)
+
+

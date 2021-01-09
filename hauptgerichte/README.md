@@ -15,3 +15,4 @@
 - [Gemüse Pilz Ragout](gemuese_pilz_ragout_mit_haube.md)
 - [Ofengemüse](ofengemuese.md)
 - [Sauerkrautlasange](sauerkrautlasange.md)
+- [Reis Lauch Puffer](reis_lauch_puffer.md)

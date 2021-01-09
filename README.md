@@ -52,6 +52,7 @@
 - [Süßkartoffel Kokos Eintopf](hauptgerichte/suesskartoffel_kokos_eintopf.md)
 - [Gemüse Pilz Ragout](hauptgerichte/gemuese_pilz_ragout_mit_haube.md)
 - [Ofengemüse](hauptgerichte/ofengemuese.md)
+- [Sauerkrautlasange](hauptgerichte/sauerkrautlasange.md)
 
 # Brot und Brötchen
 - [3 Minuten Brot](brot_und_broetchen/3-minuten-brot.md)

@@ -34,6 +34,7 @@
 
 # Suppe und Eintöpfe
 - [Tomaten Kürbis Suppe](suppe/tomaten_kuerbis_suppe.md)
+- [Winter Minestrone](suppe/winter_minestrone.md)
 
 # Hauptgerichte
 - [Gefüllte Pfannkuchen](hauptgerichte/gefuellte_pfannkuchen.md)

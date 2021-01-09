@@ -29,7 +29,10 @@
 - [Knödel](beilagen/knoedel.md)
 - [Gebackener Sellerie](beilagen/gebackener_sellerie.md)
 
-# Suppe
+# Saucen und Dips
+- [Kräuter Remoulade](saucen_dips/kraeuter_remoulade.md)
+
+# Suppe und Eintöpfe
 - [Tomaten Kürbis Suppe](suppe/tomaten_kuerbis_suppe.md)
 
 # Hauptgerichte

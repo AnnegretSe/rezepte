@@ -55,6 +55,7 @@
 - [Sauerkrautlasange](hauptgerichte/sauerkrautlasange.md)
 - [Reis Lauch Puffer](hauptgerichte/reis_lauch_puffer.md)
 - [Erbsen Zucchini Quiche](hauptgerichte/erbsen_zucchini_quiche.md)
+- [Erbsen Cabonara](hauptgerichte/erbsen_cabonara.md)
 
 # Brot und Brötchen
 - [3 Minuten Brot](brot_und_broetchen/3-minuten-brot.md)

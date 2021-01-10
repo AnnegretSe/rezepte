@@ -4,7 +4,7 @@ Deftige beilage.
 
 ## Zutaten
 
-* Sellerie
+- [ ] Sellerie
 
 ## Anleitung
 

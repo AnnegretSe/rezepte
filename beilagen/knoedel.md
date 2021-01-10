@@ -2,10 +2,10 @@
 
 ## Zutaten
 
-* Kartofflen
-* Kartoffelmehl
-* Butter
-* Ei
+- [ ] Kartofflen
+- [ ] Kartoffelmehl
+- [ ] Butter
+- [ ] Ei
 
 ## Anleitung
 
@@ -22,9 +22,9 @@
 In Schritt 3 kann nach belieben weitere Zutaten hinzugefügt werden.
 Einige Beispiele:
 
-* Brot stückchen
-* Speck
-* Röstzwiebeln
-* Gewürzgurken
-* Muskatnuss
+- [ ] Brot stückchen
+- [ ] Speck
+- [ ] Röstzwiebeln
+- [ ] Gewürzgurken
+- [ ] Muskatnuss
 

@@ -7,11 +7,11 @@
 -  [ ]   1 Glas Sauerkirschen (350g Abtropfgewicht)
 -  [ ]   120g Zucker
 -  [ ]   80g Mehl
--  [   ]   500g Magerquark
--  [   ]   500g Schmand
--  [   ]   3 Eier
--  [   ]   200g dunkle Kuvertüre
--  [   ]   100ml Schlagsahne
+-  [ ]   500g Magerquark
+-  [ ]   500g Schmand
+-  [ ]   3 Eier
+-  [ ]   200g dunkle Kuvertüre
+-  [ ]   100ml Schlagsahne
 
 
 ###  Anleitung

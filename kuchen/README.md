@@ -11,3 +11,4 @@
 - [Creme Törtchen ohne Backen](schnelle_toertchen.md)
 - [Quarkstollen](quarkstollen.md)
 - [Lebkuchen Brioches](lebkuchen_brioches.md)
+- [Schwarzwälder Käsekuchen](schwarzwaelder_kaesekuchen.md)

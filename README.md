@@ -15,6 +15,7 @@
 - [Creme Törtchen ohne Backen](kuchen/schnelle_toertchen.md)
 - [Quarkstollen](kuchen/quarkstollen.md)
 - [Lebkuchen Brioches](kuchen/lebkuchen_brioches.md)
+- [Schwarzwälder Käsekuchen](kuchen/schwarzwaelder_kaesekuchen.md)
 
 # Kekse
 - [Hildabretle / Terassen / Linzer](kekse/hildabretle.md)

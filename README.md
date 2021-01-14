@@ -60,6 +60,7 @@
 - [Erbsen Cabonara](hauptgerichte/erbsen_cabonara.md)
 - [Krautschnecken](hauptgerichte/krautschnecken.md)
 - [Brokkoli Nudel Auflauf](hauptgerichte/brokkoli_nudel_auflauf.md)
+- [Gebratener Mozzarella](hauptgerichte/gebratener_mozzarella.md)
 
 # Brot und Brötchen
 - [3 Minuten Brot](brot_und_broetchen/3-minuten-brot.md)

@@ -64,6 +64,7 @@
 - [Brokkoli Nudel Auflauf](hauptgerichte/brokkoli_nudel_auflauf.md)
 - [Gebratener Mozzarella](hauptgerichte/gebratener_mozzarella.md)
 - [Spinat Ricotta Tarte](hauptgerichte/spinat_ricotta_tarte.md)
+- [Zucchini Linsen Pasta](hauptgerichte/zucchini_linsen_pasta.md)
 
 # Brot und Brötchen
 - [3 Minuten Brot](brot_und_broetchen/3-minuten-brot.md)

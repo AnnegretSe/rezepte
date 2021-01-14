@@ -21,3 +21,4 @@
 - [Krautschnecken](krautschnecken.md)
 - [Brokkoli Nudel Auflauf](brokkoli_nudel_auflauf.md)
 - [Gebratener Mozzarella](gebratener_mozzarella.md)
+- [Spinat Ricotta Tarte](spinat_ricotta_tarte.md)

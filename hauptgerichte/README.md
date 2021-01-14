@@ -19,4 +19,4 @@
 - [Erbsen Zucchini Quiche](erbsen_zucchini_quiche.md)
 - [Erbsen Cabonara](erbsen_cabonara.md)
 - [Krautschnecken](krautschnecken.md)
-- [Brokkoli-Nudel-Auflauf](brokkoli_nudel_auflauf.md)
+- [Brokkoli Nudel Auflauf](brokkoli_nudel_auflauf.md)

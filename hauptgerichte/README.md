@@ -20,3 +20,4 @@
 - [Erbsen Cabonara](erbsen_cabonara.md)
 - [Krautschnecken](krautschnecken.md)
 - [Brokkoli Nudel Auflauf](brokkoli_nudel_auflauf.md)
+- [Gebratener Mozzarella](gebratener_mozzarella.md)

@@ -41,6 +41,7 @@
 # Hauptgerichte
 - [Gefüllte Pfannkuchen](hauptgerichte/gefuellte_pfannkuchen.md)
 - [Spargel Hack Pfanne](hauptgerichte/spargel_hack_pfanne.md)
+- [Linseneintopf](hauptgerichte/linseneintopf.md)
 
 ### Veggi
 - [Aubergine Shakshuka](hauptgerichte/auberginen_shakshuka.md)

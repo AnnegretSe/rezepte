@@ -2,7 +2,7 @@
 
 - [Gefüllte Pfannkuchen](gefuellte_pfannkuchen.md)
 - [Spargel Hack Pfanne](spargel_hack_pfanne.md)
-
+- [Linseneintopf](linseneintopf.md)
 ### Veggi
 - [Aubergine Shakshuka](auberginen_shakshuka.md)
 - [Mein Shakshuka](mein_shakshuka.md)

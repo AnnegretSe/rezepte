@@ -66,6 +66,7 @@
 - [Spinat Ricotta Tarte](hauptgerichte/spinat_ricotta_tarte.md)
 - [Zucchini Linsen Pasta](hauptgerichte/zucchini_linsen_pasta.md)
 - [Vegetarisches Moussaka](hauptgerichte/vegetarisches_moussaka.md)
+- [Vegetarische Lasagne aus der Pfanne](hauptgerichte/vegetarische_lasagne_aus_der_pfanne.md)
 
 # Brot und Brötchen
 - [3 Minuten Brot](brot_und_broetchen/3-minuten-brot.md)

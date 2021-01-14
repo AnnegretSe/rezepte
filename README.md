@@ -17,6 +17,7 @@
 - [Lebkuchen Brioches](kuchen/lebkuchen_brioches.md)
 - [Schwarzwälder Käsekuchen](kuchen/schwarzwaelder_kaesekuchen.md)
 - [Karamell Käsekuchen](kuchen/karamell_kaesekuchen.md)
+- [Pflaumenmus Buchteln](kuchen/pflaumenmus_buchteln.md)
 
 # Kekse
 - [Hildabretle / Terassen / Linzer](kekse/hildabretle.md)

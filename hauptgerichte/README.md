@@ -24,3 +24,4 @@
 - [Spinat Ricotta Tarte](spinat_ricotta_tarte.md)
 - [Zucchini Linsen Pasta](zucchini_linsen_pasta.md)
 - [Vegetarisches Moussaka](vegetarisches_moussaka.md)
+- [Vegetarische Lasagne aus der Pfanne](vegetarische_lasagne_aus_der_pfanne.md)

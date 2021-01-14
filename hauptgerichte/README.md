@@ -18,3 +18,4 @@
 - [Reis Lauch Puffer](reis_lauch_puffer.md)
 - [Erbsen Zucchini Quiche](erbsen_zucchini_quiche.md)
 - [Erbsen Cabonara](erbsen_cabonara.md)
+- [Krautschnecken](krautschnecken.md)

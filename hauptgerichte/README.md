@@ -23,3 +23,4 @@
 - [Gebratener Mozzarella](gebratener_mozzarella.md)
 - [Spinat Ricotta Tarte](spinat_ricotta_tarte.md)
 - [Zucchini Linsen Pasta](zucchini_linsen_pasta.md)
+- [Vegetarisches Moussaka](vegetarisches_moussaka.md)

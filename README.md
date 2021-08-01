@@ -18,6 +18,8 @@
 - [Quarkstollen](kuchen/quarkstollen.md)
 - [Lebkuchen Brioches](kuchen/lebkuchen_brioches.md)
 - [Schwarzwälder Käsekuchen](kuchen/schwarzwaelder_kaesekuchen.md)
+- [Karamell Käsekuchen](kuchen/karamell_kaesekuchen.md)
+- [Pflaumenmus Buchteln](kuchen/pflaumenmus_buchteln.md)
 
 # Kekse
 - [Hildabretle / Terassen / Linzer](kekse/hildabretle.md)
@@ -43,6 +45,7 @@
 # Hauptgerichte
 - [Gefüllte Pfannkuchen](hauptgerichte/gefuellte_pfannkuchen.md)
 - [Spargel Hack Pfanne](hauptgerichte/spargel_hack_pfanne.md)
+- [Linseneintopf](hauptgerichte/linseneintopf.md)
 
 ### Veggi
 - [Aubergine Shakshuka](hauptgerichte/auberginen_shakshuka.md)
@@ -59,6 +62,13 @@
 - [Reis Lauch Puffer](hauptgerichte/reis_lauch_puffer.md)
 - [Erbsen Zucchini Quiche](hauptgerichte/erbsen_zucchini_quiche.md)
 - [Erbsen Cabonara](hauptgerichte/erbsen_cabonara.md)
+- [Krautschnecken](hauptgerichte/krautschnecken.md)
+- [Brokkoli Nudel Auflauf](hauptgerichte/brokkoli_nudel_auflauf.md)
+- [Gebratener Mozzarella](hauptgerichte/gebratener_mozzarella.md)
+- [Spinat Ricotta Tarte](hauptgerichte/spinat_ricotta_tarte.md)
+- [Zucchini Linsen Pasta](hauptgerichte/zucchini_linsen_pasta.md)
+- [Vegetarisches Moussaka](hauptgerichte/vegetarisches_moussaka.md)
+- [Vegetarische Lasagne aus der Pfanne](hauptgerichte/vegetarische_lasagne_aus_der_pfanne.md)
 - [Zucchini Quiche](hauptgerichte/zucchini_quiche.md)
 - [Paprika-Lauch Quiche](hauptgerichte/paprika_lauch_quiche.md)
 

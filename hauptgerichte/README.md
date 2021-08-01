@@ -2,6 +2,7 @@
 
 - [Gefüllte Pfannkuchen](gefuellte_pfannkuchen.md)
 - [Spargel Hack Pfanne](spargel_hack_pfanne.md)
+- [Linseneintopf](linseneintopf.md)
 
 ### Veggi
 - [Aubergine Shakshuka](auberginen_shakshuka.md)
@@ -18,5 +19,12 @@
 - [Reis Lauch Puffer](reis_lauch_puffer.md)
 - [Erbsen Zucchini Quiche](erbsen_zucchini_quiche.md)
 - [Erbsen Cabonara](erbsen_cabonara.md)
+- [Krautschnecken](krautschnecken.md)
+- [Brokkoli Nudel Auflauf](brokkoli_nudel_auflauf.md)
+- [Gebratener Mozzarella](gebratener_mozzarella.md)
+- [Spinat Ricotta Tarte](spinat_ricotta_tarte.md)
+- [Zucchini Linsen Pasta](zucchini_linsen_pasta.md)
+- [Vegetarisches Moussaka](vegetarisches_moussaka.md)
+- [Vegetarische Lasagne aus der Pfanne](vegetarische_lasagne_aus_der_pfanne.md)
 - [Zucchini Quiche](zucchini_quiche.md)
 - [Paprika-Lauch Quiche](paprika_lauch_quiche.md)

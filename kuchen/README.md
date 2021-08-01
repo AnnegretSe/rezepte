@@ -12,3 +12,5 @@
 - [Quarkstollen](quarkstollen.md)
 - [Lebkuchen Brioches](lebkuchen_brioches.md)
 - [Schwarzwälder Käsekuchen](schwarzwaelder_kaesekuchen.md)
+- [Karamell Käsekuchen](karamell_kaesekuchen.md)
+- [Pflaumenmus Buchteln](pflaumenmus_buchteln.md)

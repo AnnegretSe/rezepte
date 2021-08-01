@@ -1,8 +1,5 @@
 # Vegetarische Rezepte
 
-- [Erbsen Zucchini Quiche](../hauptgerichte/erbsen_zucchini_quiche.md)
-- [Zucchini Quiche](../hauptgerichte/zucchini_quiche.md)
-- [Paprika-Lauch Quiche](../hauptgerichte/paprika_lauch_quiche.md)
 - [Aubergine Shakshuka](../hauptgerichte/auberginen_shakshuka.md)
 - [Mein Shakshuka](../hauptgerichte/mein_shakshuka.md)
 - [Linsen Bolognese](../hauptgerichte/linsen_bolognese.md)
@@ -15,5 +12,14 @@
 - [Ofengemüse](../hauptgerichte/ofengemuese.md)
 - [Sauerkrautlasange](../hauptgerichte/sauerkrautlasange.md)
 - [Reis Lauch Puffer](../hauptgerichte/reis_lauch_puffer.md)
+- [Erbsen Zucchini Quiche](../hauptgerichte/erbsen_zucchini_quiche.md)
 - [Erbsen Cabonara](../hauptgerichte/erbsen_cabonara.md)
+- [Krautschnecken](../hauptgerichte/krautschnecken.md)
+- [Brokkoli Nudel Auflauf](../hauptgerichte/brokkoli_nudel_auflauf.md)
+- [Gebratener Mozzarella](../hauptgerichte/gebratener_mozzarella.md)
 - [Spinat Ricotta Tarte](../hauptgerichte/spinat_ricotta_tarte.md)
+- [Zucchini Linsen Pasta](../hauptgerichte/zucchini_linsen_pasta.md)
+- [Vegetarisches Moussaka](../hauptgerichte/vegetarisches_moussaka.md)
+- [Vegetarische Lasagne aus der Pfanne](../hauptgerichte/vegetarische_lasagne_aus_der_pfanne.md)
+- [Zucchini Quiche](../hauptgerichte/zucchini_quiche.md)
+- [Paprika-Lauch Quiche](../hauptgerichte/paprika_lauch_quiche.md)

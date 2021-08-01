@@ -1,0 +1,18 @@
+# Vegetarische Rezepte
+
+- [Erbsen Zucchini Quiche](../hauptgerichte/erbsen_zucchini_quiche.md)
+- [Zucchini Quiche](../hauptgerichte/zucchini_quiche.md)
+- [Paprika-Lauch Quiche](../hauptgerichte/paprika_lauch_quiche.md)
+- [Aubergine Shakshuka](../hauptgerichte/auberginen_shakshuka.md)
+- [Mein Shakshuka](../hauptgerichte/mein_shakshuka.md)
+- [Linsen Bolognese](../hauptgerichte/linsen_bolognese.md)
+- [Auberginen Pasta](../hauptgerichte/auberginen_pasta.md)
+- [Ofen Falaffel](../hauptgerichte/ofenfalaffel.md)
+- [Süßkartoffel mit Ahornsirup](../hauptgerichte/suesskartoffeln_mit_ahornsyrup.md)
+- [Gnochi mit Rotkraut](../hauptgerichte/gnocchi_mit_rotkraut.md)
+- [Süßkartoffel Kokos Eintopf](../hauptgerichte/suesskartoffel_kokos_eintopf.md)
+- [Gemüse Pilz Ragout](../hauptgerichte/gemuese_pilz_ragout_mit_haube.md)
+- [Ofengemüse](../hauptgerichte/ofengemuese.md)
+- [Sauerkrautlasange](../hauptgerichte/sauerkrautlasange.md)
+- [Reis Lauch Puffer](../hauptgerichte/reis_lauch_puffer.md)
+- [Erbsen Cabonara](../hauptgerichte/erbsen_cabonara.md)

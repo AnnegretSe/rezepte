@@ -18,3 +18,5 @@
 - [Reis Lauch Puffer](reis_lauch_puffer.md)
 - [Erbsen Zucchini Quiche](erbsen_zucchini_quiche.md)
 - [Erbsen Cabonara](erbsen_cabonara.md)
+- [Zucchini Quiche](zucchini_quiche.md)
+- [Paprika-Lauch Quiche](paprika_lauch_quiche.md)

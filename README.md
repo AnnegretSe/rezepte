@@ -2,6 +2,8 @@
 
 # Sammlungen
 - [Rezepte für Weihnachten](sammlungen/weihnachten.md)
+- [Rezepte für Quiche und Tarte](sammlungen/quiche_und_tarte.md)
+- [Vegetarische Rezepte](sammlungen/veggi.md)
 
 # Kuchen
 - [Bueno Torte](kuchen/bueno_torte.md)
@@ -57,6 +59,8 @@
 - [Reis Lauch Puffer](hauptgerichte/reis_lauch_puffer.md)
 - [Erbsen Zucchini Quiche](hauptgerichte/erbsen_zucchini_quiche.md)
 - [Erbsen Cabonara](hauptgerichte/erbsen_cabonara.md)
+- [Zucchini Quiche](hauptgerichte/zucchini_quiche.md)
+- [Paprika-Lauch Quiche](hauptgerichte/paprika_lauch_quiche.md)
 
 # Brot und Brötchen
 - [3 Minuten Brot](brot_und_broetchen/3-minuten-brot.md)

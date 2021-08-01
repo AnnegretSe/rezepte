@@ -16,3 +16,4 @@
 - [Sauerkrautlasange](../hauptgerichte/sauerkrautlasange.md)
 - [Reis Lauch Puffer](../hauptgerichte/reis_lauch_puffer.md)
 - [Erbsen Cabonara](../hauptgerichte/erbsen_cabonara.md)
+- [Spinat Ricotta Tarte](../hauptgerichte/spinat_ricotta_tarte.md)

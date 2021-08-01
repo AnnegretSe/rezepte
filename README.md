@@ -71,6 +71,7 @@
 - [Vegetarische Lasagne aus der Pfanne](hauptgerichte/vegetarische_lasagne_aus_der_pfanne.md)
 - [Zucchini Quiche](hauptgerichte/zucchini_quiche.md)
 - [Paprika-Lauch Quiche](hauptgerichte/paprika_lauch_quiche.md)
+- [Grünes Gemüsecurry mit Jasminreis](hauptgerichte/gruenes_gemuesecurry.md)
 
 # Brot und Brötchen
 - [3 Minuten Brot](brot_und_broetchen/3-minuten-brot.md)

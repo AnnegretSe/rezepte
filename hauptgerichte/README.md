@@ -27,5 +27,6 @@
 - [Vegetarisches Moussaka](vegetarisches_moussaka.md)
 - [Vegetarische Lasagne aus der Pfanne](vegetarische_lasagne_aus_der_pfanne.md)
 - [Zucchini Quiche](zucchini_quiche.md)
+- [Zucchini Puffer](zucchini_puffer.md)
 - [Paprika-Lauch Quiche](paprika_lauch_quiche.md)
 - [Grünes Gemüsecurry mit Jasminreis](gruenes_gemuesecurry.md)

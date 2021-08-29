@@ -22,5 +22,6 @@
 - [Vegetarisches Moussaka](../hauptgerichte/vegetarisches_moussaka.md)
 - [Vegetarische Lasagne aus der Pfanne](../hauptgerichte/vegetarische_lasagne_aus_der_pfanne.md)
 - [Zucchini Quiche](../hauptgerichte/zucchini_quiche.md)
+- [Zucchini Puffer](../hauptgerichte/zucchini_puffer.md)  
 - [Paprika-Lauch Quiche](../hauptgerichte/paprika_lauch_quiche.md)
 - [Grünes Gemüsecurry mit Jasminreis](../hauptgerichte/gruenes_gemuesecurry.md)

@@ -36,6 +36,7 @@
 
 # Saucen und Dips
 - [Kräuter Remoulade](saucen_dips/kraeuter_remoulade.md)
+- [Petersilien Dip](saucen_dips/petersilien_dip.md)
 
 # Suppe und Eintöpfe
 - [Tomaten Kürbis Suppe](suppe/tomaten_kuerbis_suppe.md)

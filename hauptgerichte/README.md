@@ -1,8 +1,12 @@
 # Rezept Übersicht
 
+### Fleisch
 - [Gefüllte Pfannkuchen](gefuellte_pfannkuchen.md)
 - [Spargel Hack Pfanne](spargel_hack_pfanne.md)
 - [Linseneintopf](linseneintopf.md)
+
+### Fisch
+- [Fischfilet in Kokosmilch und Gemüse](fischfilet_in_kokosmilch_und_gemuese.md)
 
 ### Veggi
 - [Aubergine Shakshuka](auberginen_shakshuka.md)

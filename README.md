@@ -44,9 +44,14 @@
 - [Zucchinisuppe](suppe/zucchinisuppe.md)
 
 # Hauptgerichte
+
+### Fleisch
 - [Gefüllte Pfannkuchen](hauptgerichte/gefuellte_pfannkuchen.md)
 - [Spargel Hack Pfanne](hauptgerichte/spargel_hack_pfanne.md)
 - [Linseneintopf](hauptgerichte/linseneintopf.md)
+
+### Fisch
+- [Fischfilet in Kokosmilch und Gemüse](hauptgerichte/fischfilet_in_kokosmilch_und_gemuese.md)
 
 ### Veggi
 - [Aubergine Shakshuka](hauptgerichte/auberginen_shakshuka.md)

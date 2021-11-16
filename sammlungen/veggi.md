@@ -25,3 +25,5 @@
 - [Zucchini Puffer](../hauptgerichte/zucchini_puffer.md)  
 - [Paprika-Lauch Quiche](../hauptgerichte/paprika_lauch_quiche.md)
 - [Grünes Gemüsecurry mit Jasminreis](../hauptgerichte/gruenes_gemuesecurry.md)
+- [One Pot Curry Pasta](../hauptgerichte/one_pot_curry_pasta.md)
+- [One Pot Brokkoli Pasta](../hauptgerichte/one_pot_brokkoli_pasta.md)

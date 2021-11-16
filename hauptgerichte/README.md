@@ -34,3 +34,5 @@
 - [Zucchini Puffer](zucchini_puffer.md)
 - [Paprika-Lauch Quiche](paprika_lauch_quiche.md)
 - [Grünes Gemüsecurry mit Jasminreis](gruenes_gemuesecurry.md)
+- [One Pot Curry Pasta](one_pot_curry_pasta.md)
+- [One Pot Brokkoli Pasta](one_pot_brokkoli_pasta.md)

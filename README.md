@@ -16,6 +16,7 @@
 - [Zwetschgenkuchen vom Blech](kuchen/zwetschgenblechkuchen.md)
 - [Creme Törtchen ohne Backen](kuchen/schnelle_toertchen.md)
 - [Quarkstollen](kuchen/quarkstollen.md)
+- [Mini Stollen](kuchen/mini_stollen.md)
 - [Lebkuchen Brioches](kuchen/lebkuchen_brioches.md)
 - [Schwarzwälder Käsekuchen](kuchen/schwarzwaelder_kaesekuchen.md)
 - [Karamell Käsekuchen](kuchen/karamell_kaesekuchen.md)

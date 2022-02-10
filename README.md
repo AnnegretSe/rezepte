@@ -83,6 +83,7 @@
 - [Grünes Gemüsecurry mit Jasminreis](hauptgerichte/gruenes_gemuesecurry.md)
 - [One Pot Curry Pasta](hauptgerichte/one_pot_curry_pasta.md)
 - [One Pot Brokkoli Pasta](hauptgerichte/one_pot_brokkoli_pasta.md)
+- [Asia Tofu Bolognese](hauptgerichte/asia_tofu_bolognese.md)
 
 # Brot und Brötchen
 - [3 Minuten Brot](brot_und_broetchen/3-minuten-brot.md)

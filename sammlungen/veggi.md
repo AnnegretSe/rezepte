@@ -26,3 +26,4 @@
 - [Paprika-Lauch Quiche](../hauptgerichte/paprika_lauch_quiche.md)
 - [Grünes Gemüsecurry mit Jasminreis](../hauptgerichte/gruenes_gemuesecurry.md)
 - [Pfannkuchen mit Apfel Spitzkohl Füllung](../hauptgerichte/pfannkuchen_apfel_spitzkohl_fuellung.md)
+- [Nudeln mit Kübissoße](../hauptgerichte/nudeln_mit_kuerbissosse.md)

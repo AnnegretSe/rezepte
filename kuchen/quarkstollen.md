@@ -6,7 +6,7 @@
 
 Teig
  - [ ] 500g Mehl
- - [ ] 120g Mehl
+ - [ ] 120g Zucker
  - [ ] 1P Vanillezucker
  - [ ] 50g Zitronat
  - [ ] 50g Orangat

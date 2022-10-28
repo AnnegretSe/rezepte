@@ -34,5 +34,8 @@
 - [Zucchini Puffer](zucchini_puffer.md)
 - [Paprika-Lauch Quiche](paprika_lauch_quiche.md)
 - [Grünes Gemüsecurry mit Jasminreis](gruenes_gemuesecurry.md)
+- [One Pot Curry Pasta](one_pot_curry_pasta.md)
+- [One Pot Brokkoli Pasta](one_pot_brokkoli_pasta.md)
+- [Asia Tofu Bolognese](asia_tofu_bolognese.md)
 - [Pfannkuchen mit Apfel Spitzkohl Füllung](pfannkuchen_apfel_spitzkohl_fuellung.md)
 - [Nudeln mit Kübissoße](nudeln_mit_kuerbissosse.md)

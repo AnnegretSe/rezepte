@@ -34,3 +34,4 @@
 - [Zucchini Puffer](zucchini_puffer.md)
 - [Paprika-Lauch Quiche](paprika_lauch_quiche.md)
 - [Grünes Gemüsecurry mit Jasminreis](gruenes_gemuesecurry.md)
+- [Pfannkuchen mit Apfel Spitzkohl Füllung](pfannkuchen_apfel_spitzkohl_fuellung.md)

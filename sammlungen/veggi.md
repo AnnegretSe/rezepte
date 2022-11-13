@@ -30,3 +30,4 @@
 - [Asia Tofu Bolognese](../hauptgerichte/asia_tofu_bolognese.md)
 - [Pfannkuchen mit Apfel Spitzkohl Füllung](../hauptgerichte/pfannkuchen_apfel_spitzkohl_fuellung.md)
 - [Nudeln mit Kübissoße](../hauptgerichte/nudeln_mit_kuerbissosse.md)
+- [Kartoffel Zucchini Champignon Gratin](../hauptgerichte/kartoffel_zucchini_champignon_gratin.md)

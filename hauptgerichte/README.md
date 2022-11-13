@@ -40,3 +40,4 @@
 - [Asia Tofu Bolognese](asia_tofu_bolognese.md)
 - [Pfannkuchen mit Apfel Spitzkohl Füllung](pfannkuchen_apfel_spitzkohl_fuellung.md)
 - [Nudeln mit Kübissoße](nudeln_mit_kuerbissosse.md)
+- [Kartoffel Zucchini Champignon Gratin](kartoffel_zucchini_champignon_gratin.md)

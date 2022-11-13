@@ -54,7 +54,8 @@
 
 ### Fisch
 - [Fischfilet in Kokosmilch und Gemüse](hauptgerichte/fischfilet_in_kokosmilch_und_gemuese.md)
-
+- [Fischfilet Stir Fry](hauptgerichte/fisch_stir_fry.md)
+- 
 ### Veggi
 - [Aubergine Shakshuka](hauptgerichte/auberginen_shakshuka.md)
 - [Mein Shakshuka](hauptgerichte/mein_shakshuka.md)

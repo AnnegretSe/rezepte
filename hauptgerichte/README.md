@@ -7,6 +7,7 @@
 
 ### Fisch
 - [Fischfilet in Kokosmilch und Gemüse](fischfilet_in_kokosmilch_und_gemuese.md)
+- [Fischfilet Stir Fry](fisch_stir_fry.md)
 
 ### Veggi
 - [Aubergine Shakshuka](auberginen_shakshuka.md)

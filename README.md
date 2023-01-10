@@ -88,6 +88,9 @@
 - [Pfannkuchen mit Apfel Spitzkohl Füllung](hauptgerichte/pfannkuchen_apfel_spitzkohl_fuellung.md)
 - [Nudeln mit Kübissoße](hauptgerichte/nudeln_mit_kuerbissosse.md)
 - [Kartoffel Zucchini Champignon Gratin](hauptgerichte/kartoffel_zucchini_champignon_gratin.md)
+- [Lauch Basilikum Pasta](hauptgerichte/lauch_basilikum_pasta.md)
+- [Knödeltaler mit Pilzen](hauptgerichte/knoedeltaler_mit_pilzen.md)
+- [Miniknödel Pfanne](hauptgerichte/miniknoedel_pfanne.md)
 
 # Brot und Brötchen
 - [3 Minuten Brot](brot_und_broetchen/3-minuten-brot.md)

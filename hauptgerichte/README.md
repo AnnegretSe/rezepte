@@ -41,3 +41,6 @@
 - [Pfannkuchen mit Apfel Spitzkohl Füllung](pfannkuchen_apfel_spitzkohl_fuellung.md)
 - [Nudeln mit Kübissoße](nudeln_mit_kuerbissosse.md)
 - [Kartoffel Zucchini Champignon Gratin](kartoffel_zucchini_champignon_gratin.md)
+- [Lauch Basilikum Pasta](lauch_basilikum_pasta.md)
+- [Knödeltaler mit Pilzen](knoedeltaler_mit_pilzen.md)
+- [Miniknödel Pfanne](miniknoedel_pfanne.md)

@@ -1,4 +1,4 @@
-# Rezepte für Quiche und Tarte
+# Rezepte für Herzhafte Quiche und Tarte
 
 - [Erbsen Zucchini Quiche](../hauptgerichte/erbsen_zucchini_quiche.md)
 - [Erbsen Cabonara](../hauptgerichte/erbsen_cabonara.md)

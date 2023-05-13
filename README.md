@@ -21,6 +21,7 @@
 - [Schwarzwälder Käsekuchen](kuchen/schwarzwaelder_kaesekuchen.md)
 - [Karamell Käsekuchen](kuchen/karamell_kaesekuchen.md)
 - [Pflaumenmus Buchteln](kuchen/pflaumenmus_buchteln.md)
+- [Vegane Mandeltarte mit Erdbeeren](kuchen/vegane_mandeltarte_mit_erdbeeren.md)
 
 # Kekse
 - [Hildabretle / Terassen / Linzer](kekse/hildabretle.md)

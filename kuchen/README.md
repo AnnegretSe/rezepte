@@ -15,3 +15,4 @@
 - [Schwarzwälder Käsekuchen](schwarzwaelder_kaesekuchen.md)
 - [Karamell Käsekuchen](karamell_kaesekuchen.md)
 - [Pflaumenmus Buchteln](pflaumenmus_buchteln.md)
+- [Vegane Mandeltarte mit Erdbeeren](vegane_mandeltarte_mit_erdbeeren.md)

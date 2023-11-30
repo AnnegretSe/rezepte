@@ -6,3 +6,4 @@
 - [Eierlikörspritzgebäck](eierlikoersptizgebaeck.md)
 - [Nusshörnchen](nusshoernchen.md)
 - [Nussplätzchen (Kleiebretle)](nussplätzchen.md)
+- [Nussecken](nussecken.md)

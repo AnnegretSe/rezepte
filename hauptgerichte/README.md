@@ -44,3 +44,5 @@
 - [Lauch Basilikum Pasta](lauch_basilikum_pasta.md)
 - [Knödeltaler mit Pilzen](knoedeltaler_mit_pilzen.md)
 - [Miniknödel Pfanne](miniknoedel_pfanne.md)
+- [Griechischer Orzo Salaz](griechischer_orzo_salat.md)
+- [Gnochipfanne mit Spargel](gnochipfanne_mit_spargel.md)

@@ -9,3 +9,4 @@
 - [Spritzgebäck](../kekse/spritzgebaeck.md)
 - [Eierlikörspritzgebäck](../kekse/eierlikoersptizgebaeck.md)
 - [Nussplätzchen (Kleiebretle)](../kekse/nussplätzchen.md)
+- [Nussecken](../kekse/nussecken.md)

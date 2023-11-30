@@ -33,4 +33,7 @@
 - [Kartoffel Zucchini Champignon Gratin](../hauptgerichte/kartoffel_zucchini_champignon_gratin.md)
 - [Lauch Basilikum Pasta](../hauptgerichte/lauch_basilikum_pasta.md)
 - [Knödeltaler mit Pilzen](../hauptgerichte/knoedeltaler_mit_pilzen.md)
-- - [Miniknödel Pfanne](../hauptgerichte/miniknoedel_pfanne.md)
+- [Miniknödel Pfanne](../hauptgerichte/miniknoedel_pfanne.md)
+- [Griechischer Orzo Salaz](../hauptgerichte/griechischer_orzo_salat.md)
+- [Gnochipfanne mit Spargel](../hauptgerichte/gnochipfanne_mit_spargel.md)
+

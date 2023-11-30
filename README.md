@@ -30,6 +30,7 @@
 - [Eierlikörspritzgebäck](kekse/eierlikoersptizgebaeck.md)
 - [Nusshörnchen](kekse/nusshoernchen.md)
 - [Nussplätzchen (Kleiebretle)](kekse/nussplätzchen.md)
+- [Nussecken](kekse/nussecken.md)
 
 # Beilagen
 - [Spätzle](beilagen/spaetzle.md)
